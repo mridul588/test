@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mridul
-Skills: HTML, CSS, JS, React.js,Express,Node,Firebase
-Email: b121030@iiit-bh.ac.in
-{{/user}}
